@@ -19,4 +19,4 @@ This project utilizes YOLO-NAS Pose for the core posture detection functionality
 
 **Resources:**
 
-    Deci YOLO-NAS Pose Model Card: https://deci.ai/model-zoo/yolo-nas-pose/
+    Deci YOLO-NAS Pose Model Card: (https://deci.ai/model-zoo/yolo-nas-pose/)
