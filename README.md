@@ -19,7 +19,7 @@ The program is designed to analyze the user's sitting posture in real-time and p
 
 **How It Works**
 
-1. **YOLOv5 Model**: The core of the project is a pre-trained YOLO nas pose detection. This model is capable of identifying human body keypoints.
+1. **YOLO Nas Pose**: The core of the project is a pre-trained **[YOLO nas pose](https://github.com/Deci-AI/super-gradients/blob/master/YOLONAS-POSE.md)** detection. This model is capable of identifying human body keypoints.
 2. **Real-Time Detection**: The project leverages computer vision libraries to capture live video or process images. It then feeds frames to the YOLO model to detect and classify keypoints in real-time.
 3. **Angle_calculation** : using the **[Law of Cosines](https://www.varsitytutors.com/hotmath/hotmath_help/topics/law-of-cosines)** for calculating the angle of each joints
 
@@ -48,6 +48,3 @@ We welcome contributions to this project! Please refer to the CONTRIBUTING.md fi
 
 **License**
 This project is licensed under the MIT License.
-
-**Output**
-
