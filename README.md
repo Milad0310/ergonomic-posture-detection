@@ -1,3 +1,5 @@
+![](demo/output.gif)
+
 **Ergonomic Posture Detection with YOLOv5**
 
 
