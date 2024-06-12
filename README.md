@@ -1,6 +1,6 @@
 ![](demo/output.gif)
 
-**Ergonomic Posture Detection with YOLOv5**
+**Ergonomic Posture Detection with YOLO Nas**
 
 
 **Project Description**
